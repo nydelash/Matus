@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    height: 10vh;
+}
+
+main {
+    background: #ececec;
+    height: 90vh;
+}
+
+.op-select-section{
+    background: white;
+    height: 30vh;
+    border-radius: 20px;
+    margin-right: 5px;
+}
+
+.op-select {
+    width: 100%;
+    
+}
+
+.values {
+    background: white;
+    border-radius: 20px;
+    margin-left: 5px;
+    height: 100%;
+}
+
+.op-value-label{
+    display: inline-block;
+}
+
+.op-value-value {
+    width: 100%;
+    resize: none;
+    height: auto;
+    font-size: 12px;
+}
+
+.value2, .value3, .value4, .value5, .value6, .value7 {
+    display: none;
+}
